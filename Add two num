@@ -9,7 +9,7 @@ public class Sum {
         Scanner in = new Scanner(System.in);
 
         
-        System.out.print("Enter first number : ");
+        System.out.print("Enter first number : ");// r.v.n.a sethmal itt/16/17/073
         int num1 = in.nextInt();
 
         System.out.print("Enter second number : ");
